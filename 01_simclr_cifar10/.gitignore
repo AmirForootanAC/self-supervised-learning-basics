@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Dataset
+data/
+
+# Training outputs
+results/
+
+# Jupyter
+.ipynb_checkpoints/
