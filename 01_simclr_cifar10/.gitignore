@@ -5,8 +5,8 @@ __pycache__/
 # Virtual environment
 .venv/
 
-# Dataset
-data/
+# Dataset files
+/data/
 
 # Training outputs
 results/
