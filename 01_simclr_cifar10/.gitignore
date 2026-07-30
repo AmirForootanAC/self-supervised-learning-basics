@@ -5,11 +5,12 @@ __pycache__/
 # Virtual environment
 .venv/
 
-# Dataset files
+# Dataset
 /data/
 
-# Training outputs
-results/
+# Model checkpoints
+/results/*.pth
+/results/simclr/*.pth
 
 # Jupyter
 .ipynb_checkpoints/
