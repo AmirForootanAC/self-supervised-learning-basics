@@ -22,7 +22,7 @@ class NTXentLoss(nn.Module):
 
     def __init__(
         self,
-        temperature=0.07,
+        temperature=0.5,
     ):
 
         super().__init__()
